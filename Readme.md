@@ -1,0 +1,2 @@
+# WorldExecute
+IWBTG fangame avoidance
